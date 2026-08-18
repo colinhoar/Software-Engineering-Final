@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "pathName": "West Entrance",
+    "displayName": "West Entrance",
+    "floor": 1,
+    "xCoord": 15,
+    "yCoord": 374
+  },
+  {
+    "index": 1,
+    "pathName": "West Lobby",
+    "displayName": "West Lobby",
+    "floor": 1,
+    "xCoord": 42,
+    "yCoord": 374
+  },
+  {
+    "index": 2,
+    "pathName": "Reception Desk",
+    "displayName": "Reception Desk",
+    "floor": 1,
+    "xCoord": 107,
+    "yCoord": 374
+  },
+  {
+    "index": 3,
+    "pathName": "West Lobby 2",
+    "displayName": "West Lobby 2",
+    "floor": 1,
+    "xCoord": 138,
+    "yCoord": 374
+  },
+  {
+    "index": 4,
+    "pathName": "Elevator Lobby",
+    "displayName": "Elevator Lobby",
+    "floor": 1,
+    "xCoord": 277,
+    "yCoord": 374
+  },
+  {
+    "index": 5,
+    "pathName": "Sub Hallway 1",
+    "displayName": "Sub Hallway 1",
+    "floor": 1,
+    "xCoord": 138,
+    "yCoord": 440
+  },
+  {
+    "index": 6,
+    "pathName": "Elevator Hallway",
+    "displayName": "Elevator Hallway",
+    "floor": 1,
+    "xCoord": 277,
+    "yCoord": 440
+  },
+  {
+    "index": 7,
+    "pathName": "Internal Lobby",
+    "displayName": "Internal Lobby",
+    "floor": 1,
+    "xCoord": 277,
+    "yCoord": 534
+  },
+  {
+    "index": 8,
+    "pathName": "South Lobby Entrance",
+    "displayName": "South Lobby Entrance",
+    "floor": 1,
+    "xCoord": 267,
+    "yCoord": 717
+  },
+  {
+    "index": 9,
+    "pathName": "South Entrance",
+    "displayName": "South Entrance",
+    "floor": 1,
+    "xCoord": 267,
+    "yCoord": 774
+  }
+]

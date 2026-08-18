@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "pathName": "MC Garage Entrance",
+    "displayName": "MC Garage Entrance",
+    "floor": 0,
+    "xCoord": 490,
+    "yCoord": 240
+  },
+  {
+    "index": 1,
+    "pathName": "MC Sidewalk 1",
+    "displayName": "MC Sidewalk 1",
+    "floor": 0,
+    "xCoord": 498,
+    "yCoord": 240
+  },
+  {
+    "index": 2,
+    "pathName": "MC Sidewalk 2",
+    "displayName": "MC Sidewalk 2",
+    "floor": 0,
+    "xCoord": 500,
+    "yCoord": 248
+  },
+  {
+    "index": 3,
+    "pathName": "MC Sidewalk 3",
+    "displayName": "MC Sidewalk 3",
+    "floor": 0,
+    "xCoord": 515,
+    "yCoord": 248
+  },
+  {
+    "index": 4,
+    "pathName": "MC Sidewalk 4",
+    "displayName": "MC Sidewalk 4",
+    "floor": 0,
+    "xCoord": 540,
+    "yCoord": 248
+  },
+  {
+    "index": 5,
+    "pathName": "MC Sidewalk 5",
+    "displayName": "MC Sidewalk 5",
+    "floor": 0,
+    "xCoord": 540,
+    "yCoord": 208
+  },
+  {
+    "index": 6,
+    "pathName": "MC Sidewalk 6",
+    "displayName": "MC Sidewalk 6",
+    "floor": 0,
+    "xCoord": 535,
+    "yCoord": 194
+  },
+  {
+    "index": 7,
+    "pathName": "MC Sidewalk 7",
+    "displayName": "MC Sidewalk 7",
+    "floor": 0,
+    "xCoord": 524,
+    "yCoord": 185
+  },
+  {
+    "index": 8,
+    "pathName": "MC Sidewalk 8",
+    "displayName": "MC Sidewalk 8",
+    "floor": 0,
+    "xCoord": 500,
+    "yCoord": 185
+  },
+  {
+    "index": 9,
+    "pathName": "MC Sub Entrance",
+    "displayName": "MC Sub Entrance",
+    "floor": 0,
+    "xCoord": 477,
+    "yCoord": 185
+  },
+  {
+    "index": 10,
+    "pathName": "MC Entrance 1",
+    "displayName": "MC Entrance 1",
+    "floor": 0,
+    "xCoord": 477,
+    "yCoord": 175
+  },
+  {
+    "index": 11,
+    "pathName": "MC Entrance 2",
+    "displayName": "MC Entrance 2",
+    "floor": 0,
+    "xCoord": 477,
+    "yCoord": 167
+  },
+  {
+    "index": 12,
+    "pathName": "MC Lobby 1",
+    "displayName": "MC Lobby 1",
+    "floor": 0,
+    "xCoord": 477,
+    "yCoord": 154
+  },
+  {
+    "index": 13,
+    "pathName": "MC Reception Line",
+    "displayName": "MC Reception Line",
+    "floor": 0,
+    "xCoord": 462,
+    "yCoord": 154
+  },
+  {
+    "index": 14,
+    "pathName": "MC Reception",
+    "displayName": "MC Reception",
+    "floor": 0,
+    "xCoord": 462,
+    "yCoord": 150
+  }
+]

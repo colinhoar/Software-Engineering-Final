@@ -1,0 +1,135 @@
+// This is your Prisma schema file, learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider   = "prisma-client-js"
+  output     = "../.prisma/client"
+  engineType = "binary"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("POSTGRES_URL")
+}
+
+model Employee {
+  id              Int               @id @default(autoincrement())
+  name            String
+  role            String?
+  birthday        String?
+  pronouns        String?
+  profileColor    String            @default("#044ca4")
+  connectedUser   User?
+  ServiceRequests ServiceRequests[]
+}
+
+model ServiceRequests {
+  requestID                    Int                            @id @default(autoincrement())
+  requesterName                String
+  // question mark after employee makes it so we can leave the assignedEmployeeID blank to begin with
+  assignedEmployee             Employee?                      @relation(references: [id], fields: [assignedEmployeeID])
+  assignedEmployeeID           Int?
+  status                       String                         @default("Unassigned")
+  description                  String
+  locationRequiringService     String
+  urgencyLevel                 String
+  serviceCategory              String
+  requestedService             String // like requested device if medical device request, language if translator, type of cleaning if sanitation...
+  MedicalDeviceRequest         MedicalDeviceRequests?
+  PatientTransportationRequest PatientTransportationRequests?
+  FacilityMaintenanceRequest   FacilityMaintenanceRequests?
+}
+
+model MedicalDeviceRequests {
+  serviceRequest   ServiceRequests @relation(references: [requestID], fields: [serviceRequestID])
+  serviceRequestID Int             @id
+  deliveryTime     DateTime
+}
+
+model PatientTransportationRequests {
+  serviceRequest       ServiceRequests @relation(references: [requestID], fields: [serviceRequestID])
+  serviceRequestID     Int             @id
+  date                 String
+  patientMobilityLevel String
+  destination          String
+}
+
+model FacilityMaintenanceRequests {
+  serviceRequest   ServiceRequests @relation(references: [requestID], fields: [serviceRequestID])
+  serviceRequestID Int             @id
+  date             String
+}
+
+model Department {
+  departmentID Int      @id
+  name         String
+  building     Building @relation(references: [id], fields: [buildingID])
+  buildingID   Int
+  location     String // if we have more info than a floor number
+  phone        String
+  services     String
+  floor        String
+}
+
+model Building {
+  id          Int          @id
+  name        String       @unique
+  Departments Department[]
+}
+
+model PathfindingZone {
+  id              Int              @id
+  name            String           @unique
+  Nodes           Node[]
+  AdjacencyMatrix AdjacencyMatrix?
+}
+
+model Node {
+  index       Int
+  pathName    String
+  displayName String
+  floor       Int
+  xCoord      Float
+  yCoord      Float
+  zone        PathfindingZone @relation(references: [id], fields: [zoneID])
+  zoneID      Int
+
+  @@id([zoneID, index])
+}
+
+model AdjacencyMatrix {
+  zone   PathfindingZone @relation(references: [id], fields: [zoneID])
+  zoneID Int             @id
+  matrix Json // workaround for no 2d arrays in Prisma
+}
+
+model GlobalSettings {
+  id                   Int    @id
+  pathfindingAlgorithm String
+}
+
+model Client {
+  id           String   @id @default(uuid())
+  name         String
+  clientId     String   @unique
+  clientSecret String
+  redirectUris String[]
+  grants       String[]
+  userId       String   @unique
+  user         User     @relation(fields: [userId], references: [id])
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model User {
+  id         String   @id @default(uuid())
+  email      String   @unique
+  password   String
+  isAdmin    Boolean
+  googleId   String?  @unique
+  githubId   String?  @unique
+  client     Client?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  employee   Employee @relation(fields: [employeeID], references: [id])
+  employeeID Int      @unique
+}

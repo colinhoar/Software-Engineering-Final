@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "pathName": "Entrance",
+    "displayName": "Entrance",
+    "floor": 0,
+    "xCoord": 392.5,
+    "yCoord": 829
+  },
+  {
+    "index": 1,
+    "pathName": "Lot Fork",
+    "displayName": "Lot Fork",
+    "floor": 0,
+    "xCoord": 392.5,
+    "yCoord": 694
+  },
+  {
+    "index": 2,
+    "pathName": "Lot A1",
+    "displayName": "Lot A1",
+    "floor": 0,
+    "xCoord": 592.5,
+    "yCoord": 694
+  },
+  {
+    "index": 3,
+    "pathName": "Lot A2",
+    "displayName": "Lot A2",
+    "floor": 0,
+    "xCoord": 787.5,
+    "yCoord": 694
+  },
+  {
+    "index": 4,
+    "pathName": "Lot A3",
+    "displayName": "Lot A3",
+    "floor": 0,
+    "xCoord": 787.5,
+    "yCoord": 829
+  },
+  {
+    "index": 5,
+    "pathName": "Lot A4",
+    "displayName": "Lot A4",
+    "floor": 0,
+    "xCoord": 592.5,
+    "yCoord": 829
+  },
+  {
+    "index": 6,
+    "pathName": "Exit Fork",
+    "displayName": "Exit Fork",
+    "floor": 0,
+    "xCoord": 92.5,
+    "yCoord": 694
+  },
+  {
+    "index": 7,
+    "pathName": "Exit",
+    "displayName": "Exit",
+    "floor": 0,
+    "xCoord": 87.5,
+    "yCoord": 784
+  },
+  {
+    "index": 8,
+    "pathName": "Lot B Entrance",
+    "displayName": "Lot B Entrance",
+    "floor": 0,
+    "xCoord": 152.5,
+    "yCoord": 404
+  },
+  {
+    "index": 9,
+    "pathName": "Lot B1",
+    "displayName": "Lot B1",
+    "floor": 0,
+    "xCoord": 112.5,
+    "yCoord": 354
+  },
+  {
+    "index": 10,
+    "pathName": "Lot B2",
+    "displayName": "Lot B2",
+    "floor": 0,
+    "xCoord": 132.5,
+    "yCoord": 189
+  },
+  {
+    "index": 11,
+    "pathName": "Lot B Exit",
+    "displayName": "Lot B Exit",
+    "floor": 0,
+    "xCoord": 187.5,
+    "yCoord": 354
+  },
+  {
+    "index": 12,
+    "pathName": "Lot B Exit Fork",
+    "displayName": "Lot B Exit Fork",
+    "floor": 0,
+    "xCoord": 187.5,
+    "yCoord": 175
+  },
+  {
+    "index": 13,
+    "pathName": "Lot C Fork",
+    "displayName": "Lot C Fork",
+    "floor": 0,
+    "xCoord": 822.5,
+    "yCoord": 175
+  },
+  {
+    "index": 14,
+    "pathName": "Lot C1",
+    "displayName": "Lot C1",
+    "floor": 0,
+    "xCoord": 822.5,
+    "yCoord": 84
+  },
+  {
+    "index": 15,
+    "pathName": "Lot C2",
+    "displayName": "Lot C2",
+    "floor": 0,
+    "xCoord": 582.5,
+    "yCoord": 84
+  },
+  {
+    "index": 16,
+    "pathName": "Alley Middle",
+    "displayName": "Alley Middle",
+    "floor": 0,
+    "xCoord": 822.5,
+    "yCoord": 401.5
+  },
+  {
+    "index": 17,
+    "pathName": "Alley Exit",
+    "displayName": "Alley Exit",
+    "floor": 0,
+    "xCoord": 802.5,
+    "yCoord": 634
+  },
+  {
+    "index": 18,
+    "pathName": "South Entrance",
+    "displayName": "South Entrance",
+    "floor": 0,
+    "xCoord": 392.5,
+    "yCoord": 633
+  },
+  {
+    "index": 19,
+    "pathName": "West Entrance",
+    "displayName": "West Entrance",
+    "floor": 0,
+    "xCoord": 247.5,
+    "yCoord": 401.5
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "index": 0,
+    "pathName": "P20 F1 SW Side Entrance",
+    "displayName": "SW Side Entrance",
+    "floor": 1,
+    "xCoord": 35,
+    "yCoord": 765
+  },
+  {
+    "index": 1,
+    "pathName": "P20 F1 SW Corner Entrance",
+    "displayName": "SW Corner Entrance",
+    "floor": 1,
+    "xCoord": 25,
+    "yCoord": 855
+  },
+  {
+    "index": 2,
+    "pathName": "P20 F1 SW Corner Sub 1 Entrance",
+    "displayName": "SW Corner Sub 1 Entrance",
+    "floor": 1,
+    "xCoord": 25,
+    "yCoord": 825
+  },
+  {
+    "index": 3,
+    "pathName": "P20 F1 SW Corner Sub 2 Entrance",
+    "displayName": "SW Corner Sub 2 Entrance",
+    "floor": 1,
+    "xCoord": 75,
+    "yCoord": 815
+  },
+  {
+    "index": 4,
+    "pathName": "P20 F1 SW Lobby",
+    "displayName": "SW Lobby",
+    "floor": 1,
+    "xCoord": 190,
+    "yCoord": 813
+  },
+  {
+    "index": 5,
+    "pathName": "P20 F1 South Hallway 1",
+    "displayName": "South Hallway 1",
+    "floor": 1,
+    "xCoord": 382,
+    "yCoord": 826
+  },
+  {
+    "index": 6,
+    "pathName": "P20 F1 South Hallway 2",
+    "displayName": "South Hallway 2",
+    "floor": 1,
+    "xCoord": 640,
+    "yCoord": 828
+  },
+  {
+    "index": 7,
+    "pathName": "P20 F1 Check-In Entrance",
+    "displayName": "Check-In Entrance",
+    "floor": 1,
+    "xCoord": 640,
+    "yCoord": 805
+  },
+  {
+    "index": 8,
+    "pathName": "P20 F1 Check-In Reception",
+    "displayName": "Check-In Reception",
+    "floor": 1,
+    "xCoord": 640,
+    "yCoord": 725
+  },
+  {
+    "index": 9,
+    "pathName": "P20 F1 Elevator Lobby",
+    "displayName": "Elevator Lobby",
+    "floor": 1,
+    "xCoord": 873,
+    "yCoord": 820
+  },
+  {
+    "index": 10,
+    "pathName": "P20 F1 Elevator 2",
+    "displayName": "Elevator 2",
+    "floor": 1,
+    "xCoord": 888,
+    "yCoord": 783
+  },
+  {
+    "index": 11,
+    "pathName": "P20 F1 Elevator 1",
+    "displayName": "Elevator 1",
+    "floor": 1,
+    "xCoord": 858.5,
+    "yCoord": 783
+  },
+  {
+    "index": 12,
+    "pathName": "P22 F2 Elevator 1",
+    "displayName": "Elevator 1",
+    "floor": 2,
+    "xCoord": 480,
+    "yCoord": 430
+  },
+  {
+    "index": 13,
+    "pathName": "P22 F2 Elevator 2",
+    "displayName": "Elevator 2",
+    "floor": 2,
+    "xCoord": 510,
+    "yCoord": 430
+  },
+  {
+    "index": 14,
+    "pathName": "P22 F2 Elevator 3",
+    "displayName": "Elevator 3",
+    "floor": 2,
+    "xCoord": 540,
+    "yCoord": 430
+  },
+  {
+    "index": 15,
+    "pathName": "P22 F2 Elevator 4",
+    "displayName": "Elevator 4",
+    "floor": 2,
+    "xCoord": 580,
+    "yCoord": 430
+  },
+  {
+    "index": 16,
+    "pathName": "P22 F2 Elevator Hallway 1",
+    "displayName": "Elevator Hallway 1",
+    "floor": 2,
+    "xCoord": 565,
+    "yCoord": 450
+  },
+  {
+    "index": 17,
+    "pathName": "P22 F2 Elevator Hallway 2",
+    "displayName": "Elevator Hallway 2",
+    "floor": 2,
+    "xCoord": 530,
+    "yCoord": 450
+  },
+  {
+    "index": 18,
+    "pathName": "P22 F2 Elevator Hallway 3",
+    "displayName": "Elevator Hallway 3",
+    "floor": 2,
+    "xCoord": 495,
+    "yCoord": 450
+  },
+  {
+    "index": 19,
+    "pathName": "P22 F2 Elevator Hallway 4",
+    "displayName": "Elevator Hallway 4",
+    "floor": 2,
+    "xCoord": 460,
+    "yCoord": 450
+  },
+  {
+    "index": 20,
+    "pathName": "P22 F2 Patriot 22 Entrance West",
+    "displayName": "Patriot 22 Entrance West",
+    "floor": 2,
+    "xCoord": 560,
+    "yCoord": 565
+  },
+  {
+    "index": 21,
+    "pathName": "P22 F2 Patriot 22 Entrance East",
+    "displayName": "Patriot 22 Entrance East",
+    "floor": 2,
+    "xCoord": 635,
+    "yCoord": 530
+  },
+  {
+    "index": 22,
+    "pathName": "P22 F3 Elevator 1",
+    "displayName": "Elevator 1",
+    "floor": 3,
+    "xCoord": 480,
+    "yCoord": 430
+  },
+  {
+    "index": 23,
+    "pathName": "P22 F3 Elevator 2",
+    "displayName": "Elevator 2",
+    "floor": 3,
+    "xCoord": 510,
+    "yCoord": 430
+  },
+  {
+    "index": 24,
+    "pathName": "P22 F3 Elevator 3",
+    "displayName": "Elevator 3",
+    "floor": 3,
+    "xCoord": 540,
+    "yCoord": 430
+  },
+  {
+    "index": 25,
+    "pathName": "P22 F3 Elevator 4",
+    "displayName": "Elevator 4",
+    "floor": 3,
+    "xCoord": 580,
+    "yCoord": 430
+  },
+  {
+    "index": 26,
+    "pathName": "P22 F3 Elevator Hallway 1",
+    "displayName": "Elevator Hallway 1",
+    "floor": 3,
+    "xCoord": 565,
+    "yCoord": 450
+  },
+  {
+    "index": 27,
+    "pathName": "P22 F3 Elevator Hallway 2",
+    "displayName": "Elevator Hallway 2",
+    "floor": 3,
+    "xCoord": 530,
+    "yCoord": 450
+  },
+  {
+    "index": 28,
+    "pathName": "P22 F3 Elevator Hallway 3",
+    "displayName": "Elevator Hallway 3",
+    "floor": 3,
+    "xCoord": 495,
+    "yCoord": 450
+  },
+  {
+    "index": 29,
+    "pathName": "P22 F3 Elevator Hallway 4",
+    "displayName": "Elevator Hallway 4",
+    "floor": 3,
+    "xCoord": 460,
+    "yCoord": 450
+  },
+  {
+    "index": 30,
+    "pathName": "P22 F3 Check-In Entrance",
+    "displayName": "Check-In Entrance",
+    "floor": 3,
+    "xCoord": 425,
+    "yCoord": 450
+  },
+  {
+    "index": 31,
+    "pathName": "P22 F3 Check-In Desk",
+    "displayName": "Check-In Desk",
+    "floor": 3,
+    "xCoord": 385,
+    "yCoord": 475
+  },
+  {
+    "index": 32,
+    "pathName": "P22 F4 Elevator 1",
+    "displayName": "Elevator 1",
+    "floor": 4,
+    "xCoord": 475,
+    "yCoord": 425
+  },
+  {
+    "index": 33,
+    "pathName": "P22 F4 Elevator 2",
+    "displayName": "Elevator 2",
+    "floor": 4,
+    "xCoord": 505,
+    "yCoord": 425
+  },
+  {
+    "index": 34,
+    "pathName": "P22 F4 Elevator 3",
+    "displayName": "Elevator 3",
+    "floor": 4,
+    "xCoord": 535,
+    "yCoord": 425
+  },
+  {
+    "index": 35,
+    "pathName": "P22 F4 Elevator 4",
+    "displayName": "Elevator 4",
+    "floor": 4,
+    "xCoord": 575,
+    "yCoord": 425
+  },
+  {
+    "index": 36,
+    "pathName": "P22 F4 Elevator Hallway 1",
+    "displayName": "Elevator Hallway 1",
+    "floor": 4,
+    "xCoord": 490,
+    "yCoord": 445
+  },
+  {
+    "index": 37,
+    "pathName": "P22 F4 Elevator Hallway 2",
+    "displayName": "Elevator Hallway 2",
+    "floor": 4,
+    "xCoord": 525,
+    "yCoord": 445
+  },
+  {
+    "index": 38,
+    "pathName": "P22 F4 Elevator Hallway 3",
+    "displayName": "Elevator Hallway 3",
+    "floor": 4,
+    "xCoord": 560,
+    "yCoord": 445
+  },
+  {
+    "index": 39,
+    "pathName": "P22 F4 Check-In Entrance",
+    "displayName": "Check-In Entrance",
+    "floor": 4,
+    "xCoord": 600,
+    "yCoord": 445
+  },
+  {
+    "index": 40,
+    "pathName": "P22 F4 Check-In Desk",
+    "displayName": "Check-In Desk",
+    "floor": 4,
+    "xCoord": 600,
+    "yCoord": 460
+  }
+]

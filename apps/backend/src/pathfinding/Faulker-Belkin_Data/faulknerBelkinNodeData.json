@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "pathName": "2004 Parking Entrance",
+    "displayName": "2004 Parking Entrance",
+    "floor": 0,
+    "xCoord": 212,
+    "yCoord": 230
+  },
+  {
+    "index": 1,
+    "pathName": "2004 Parking Sub Entrance",
+    "displayName": "2004 Parking Sub Entrance",
+    "floor": 0,
+    "xCoord": 220,
+    "yCoord": 230
+  },
+  {
+    "index": 2,
+    "pathName": "Belkin Sub Entrance",
+    "displayName": "Belkin Sub Entrance",
+    "floor": 0,
+    "xCoord": 220,
+    "yCoord": 163
+  },
+  {
+    "index": 3,
+    "pathName": "Belkin Entrance",
+    "displayName": "Belkin Entrance",
+    "floor": 0,
+    "xCoord": 198,
+    "yCoord": 163
+  },
+  {
+    "index": 4,
+    "pathName": "Sidewalk 1",
+    "displayName": "Sidewalk 1",
+    "floor": 0,
+    "xCoord": 220,
+    "yCoord": 253
+  },
+  {
+    "index": 5,
+    "pathName": "Sidewalk 2",
+    "displayName": "Sidewalk 2",
+    "floor": 0,
+    "xCoord": 277,
+    "yCoord": 233
+  },
+  {
+    "index": 6,
+    "pathName": "Sidewalk 3",
+    "displayName": "Sidewalk 3",
+    "floor": 0,
+    "xCoord": 325,
+    "yCoord": 247
+  },
+  {
+    "index": 7,
+    "pathName": "Sidewalk 4",
+    "displayName": "Sidewalk 4",
+    "floor": 0,
+    "xCoord": 373,
+    "yCoord": 250
+  },
+  {
+    "index": 8,
+    "pathName": "Sidewalk 5",
+    "displayName": "Sidewalk 5",
+    "floor": 0,
+    "xCoord": 407,
+    "yCoord": 258
+  },
+  {
+    "index": 9,
+    "pathName": "Sidewalk 6",
+    "displayName": "Sidewalk 6",
+    "floor": 0,
+    "xCoord": 442,
+    "yCoord": 242
+  },
+  {
+    "index": 10,
+    "pathName": "Faulkner Entrance",
+    "displayName": "Faulkner Entrance",
+    "floor": 0,
+    "xCoord": 500,
+    "yCoord": 233
+  },
+  {
+    "index": 11,
+    "pathName": "Faulkner Information Desk",
+    "displayName": "Faulkner Information Desk",
+    "floor": 0,
+    "xCoord": 500,
+    "yCoord": 290
+  },
+  {
+    "index": 12,
+    "pathName": "Sidewalk 7",
+    "displayName": "Sidewalk 7",
+    "floor": 0,
+    "xCoord": 567,
+    "yCoord": 248
+  },
+  {
+    "index": 13,
+    "pathName": "Sidewalk 8",
+    "displayName": "Sidewalk 8",
+    "floor": 0,
+    "xCoord": 617,
+    "yCoord": 282
+  },
+  {
+    "index": 14,
+    "pathName": "Sidewalk 9",
+    "displayName": "Sidewalk 9",
+    "floor": 0,
+    "xCoord": 697,
+    "yCoord": 283
+  },
+  {
+    "index": 15,
+    "pathName": "Sidewalk 10",
+    "displayName": "Sidewalk 10",
+    "floor": 0,
+    "xCoord": 737,
+    "yCoord": 247
+  },
+  {
+    "index": 16,
+    "pathName": "Sidewalk 11",
+    "displayName": "Sidewalk 11",
+    "floor": 0,
+    "xCoord": 822,
+    "yCoord": 292
+  },
+  {
+    "index": 17,
+    "pathName": "Sidewalk 12",
+    "displayName": "Sidewalk 12",
+    "floor": 0,
+    "xCoord": 850,
+    "yCoord": 333
+  },
+  {
+    "index": 18,
+    "pathName": "Sidewalk 13",
+    "displayName": "Sidewalk 13",
+    "floor": 0,
+    "xCoord": 858,
+    "yCoord": 378
+  },
+  {
+    "index": 19,
+    "pathName": "Sidewalk 14",
+    "displayName": "Sidewalk 14",
+    "floor": 0,
+    "xCoord": 843,
+    "yCoord": 387
+  },
+  {
+    "index": 20,
+    "pathName": "Sidewalk 15",
+    "displayName": "Sidewalk 15",
+    "floor": 0,
+    "xCoord": 852,
+    "yCoord": 445
+  },
+  {
+    "index": 21,
+    "pathName": "Sidewalk 16",
+    "displayName": "Sidewalk 16",
+    "floor": 0,
+    "xCoord": 897,
+    "yCoord": 573
+  },
+  {
+    "index": 22,
+    "pathName": "Sidewalk 17",
+    "displayName": "Sidewalk 17",
+    "floor": 0,
+    "xCoord": 900,
+    "yCoord": 618
+  },
+  {
+    "index": 23,
+    "pathName": "Sidewalk 18",
+    "displayName": "Sidewalk 18",
+    "floor": 0,
+    "xCoord": 887,
+    "yCoord": 657
+  },
+  {
+    "index": 24,
+    "pathName": "Sidewalk 19",
+    "displayName": "Sidewalk 19",
+    "floor": 0,
+    "xCoord": 867,
+    "yCoord": 682
+  },
+  {
+    "index": 25,
+    "pathName": "Sidewalk 20",
+    "displayName": "Sidewalk 20",
+    "floor": 0,
+    "xCoord": 827,
+    "yCoord": 707
+  },
+  {
+    "index": 26,
+    "pathName": "Sidewalk 21",
+    "displayName": "Sidewalk 21",
+    "floor": 0,
+    "xCoord": 578,
+    "yCoord": 707
+  },
+  {
+    "index": 27,
+    "pathName": "Sidewalk 22",
+    "displayName": "Sidewalk 22",
+    "floor": 0,
+    "xCoord": 395,
+    "yCoord": 707
+  },
+  {
+    "index": 28,
+    "pathName": "1975 Parking Sub Entrance",
+    "displayName": "1975 Parking Sub Entrance",
+    "floor": 0,
+    "xCoord": 395,
+    "yCoord": 785
+  },
+  {
+    "index": 29,
+    "pathName": "1975 Parking Entrance",
+    "displayName": "1975 Parking Entrance",
+    "floor": 0,
+    "xCoord": 367,
+    "yCoord": 785
+  },
+  {
+    "index": 30,
+    "pathName": "Belkin Lobby",
+    "displayName": "Belkin Lobby",
+    "floor": 0,
+    "xCoord": 182,
+    "yCoord": 153
+  },
+  {
+    "index": 31,
+    "pathName": "Sidewalk 23",
+    "displayName": "Sidewalk 23",
+    "floor": 0,
+    "xCoord": 308,
+    "yCoord": 237
+  },
+  {
+    "index": 32,
+    "pathName": "Sidewalk 24",
+    "displayName": "Sidewalk 24",
+    "floor": 0,
+    "xCoord": 477,
+    "yCoord": 232
+  },
+  {
+    "index": 33,
+    "pathName": "Sidewalk 25",
+    "displayName": "Sidewalk 25",
+    "floor": 0,
+    "xCoord": 527,
+    "yCoord": 232
+  },
+  {
+    "index": 34,
+    "pathName": "Sidewalk 26",
+    "displayName": "Sidewalk 26",
+    "floor": 0,
+    "xCoord": 837,
+    "yCoord": 310
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "pathName": "Patriot Lot 22B",
+    "displayName": "Patriot Lot 22B",
+    "floor": 0,
+    "xCoord": 153,
+    "yCoord": 563
+  },
+  {
+    "index": 1,
+    "pathName": "Patriot 22B Entrance",
+    "displayName": "Patriot 22B Entrance",
+    "floor": 0,
+    "xCoord": 128,
+    "yCoord": 407
+  },
+  {
+    "index": 2,
+    "pathName": "Patriot 22B Sub Entrance",
+    "displayName": "Patriot 22B Sub Entrance",
+    "floor": 0,
+    "xCoord": 120,
+    "yCoord": 394
+  },
+  {
+    "index": 3,
+    "pathName": "Patriot 22B to 22A",
+    "displayName": "Patriot 22B to 22A",
+    "floor": 0,
+    "xCoord": 175,
+    "yCoord": 355
+  },
+  {
+    "index": 4,
+    "pathName": "Patriot 22A Sub Entrance 1",
+    "displayName": "Patriot 22A Sub Entrance 1",
+    "floor": 0,
+    "xCoord": 243,
+    "yCoord": 348
+  },
+  {
+    "index": 5,
+    "pathName": "Patriot 22A Entrance 1",
+    "displayName": "Patriot 22A Entrance 1",
+    "floor": 0,
+    "xCoord": 245,
+    "yCoord": 360
+  },
+  {
+    "index": 6,
+    "pathName": "Patriot Lot 22A",
+    "displayName": "Patriot Lot 22A",
+    "floor": 0,
+    "xCoord": 271,
+    "yCoord": 446
+  },
+  {
+    "index": 7,
+    "pathName": "Patriot 22A Entrance 2",
+    "displayName": "Patriot 22A Entrance 2",
+    "floor": 0,
+    "xCoord": 330,
+    "yCoord": 350
+  },
+  {
+    "index": 8,
+    "pathName": "Patriot 22A Sub Entrance 2",
+    "displayName": "Patriot 22A Sub Entrance 2",
+    "floor": 0,
+    "xCoord": 328,
+    "yCoord": 337
+  },
+  {
+    "index": 9,
+    "pathName": "Patriot 22C Sub Entrance",
+    "displayName": "Patriot 22C Sub Entrance",
+    "floor": 0,
+    "xCoord": 470,
+    "yCoord": 334
+  },
+  {
+    "index": 10,
+    "pathName": "Patriot 22C Entrance",
+    "displayName": "Patriot 22C Entrance",
+    "floor": 0,
+    "xCoord": 459,
+    "yCoord": 369
+  },
+  {
+    "index": 11,
+    "pathName": "Patriot Lot 22C",
+    "displayName": "Patriot Lot 22C",
+    "floor": 0,
+    "xCoord": 430,
+    "yCoord": 445
+  },
+  {
+    "index": 12,
+    "pathName": "20 Patriot Place Entrance",
+    "displayName": "20 Patriot Place Entrance",
+    "floor": 0,
+    "xCoord": 565,
+    "yCoord": 350
+  },
+  {
+    "index": 13,
+    "pathName": "22 Patriot Place Entrance",
+    "displayName": "22 Patriot Place Entrance",
+    "floor": 0,
+    "xCoord": 552,
+    "yCoord": 325
+  },
+  {
+    "index": 14,
+    "pathName": "Patriot Pathway to Building 1",
+    "displayName": "Patriot Pathway to Building 1",
+    "floor": 0,
+    "xCoord": 620,
+    "yCoord": 300
+  },
+  {
+    "index": 15,
+    "pathName": "Pathway to Building 2",
+    "displayName": "Pathway to Building 2",
+    "floor": 0,
+    "xCoord": 662,
+    "yCoord": 255
+  },
+  {
+    "index": 16,
+    "pathName": "Pathway to Building 3",
+    "displayName": "Pathway to Building 3",
+    "floor": 0,
+    "xCoord": 704,
+    "yCoord": 200
+  },
+  {
+    "index": 17,
+    "pathName": "23A Sub Entrance",
+    "displayName": "23A Sub Entrance",
+    "floor": 0,
+    "xCoord": 719,
+    "yCoord": 145
+  },
+  {
+    "index": 18,
+    "pathName": "23A Entrance",
+    "displayName": "23A Entrance",
+    "floor": 0,
+    "xCoord": 721.5,
+    "yCoord": 128
+  },
+  {
+    "index": 19,
+    "pathName": "Lot 23A",
+    "displayName": "Lot 23A",
+    "floor": 0,
+    "xCoord": 720,
+    "yCoord": 95
+  },
+  {
+    "index": 20,
+    "pathName": "23B Sub Entrance",
+    "displayName": "23B Sub Entrance",
+    "floor": 0,
+    "xCoord": 502,
+    "yCoord": 145
+  },
+  {
+    "index": 21,
+    "pathName": "23B Entrance",
+    "displayName": "23B Entrance",
+    "floor": 0,
+    "xCoord": 503,
+    "yCoord": 125
+  },
+  {
+    "index": 22,
+    "pathName": "Lot 23B",
+    "displayName": "Lot 23B",
+    "floor": 0,
+    "xCoord": 521,
+    "yCoord": 95
+  },
+  {
+    "index": 23,
+    "pathName": "23C Sub Entrance",
+    "displayName": "23C Sub Entrance",
+    "floor": 0,
+    "xCoord": 312,
+    "yCoord": 162
+  },
+  {
+    "index": 24,
+    "pathName": "23C Entrance",
+    "displayName": "23C Entrance",
+    "floor": 0,
+    "xCoord": 312,
+    "yCoord": 142
+  },
+  {
+    "index": 25,
+    "pathName": "Lot 23C",
+    "displayName": "Lot 23C",
+    "floor": 0,
+    "xCoord": 308,
+    "yCoord": 110
+  }
+]
